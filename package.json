@@ -28,6 +28,7 @@
   "name": "github-actions-practice-automation",
   "version": "1.0.0",
   "description": "Practice automation with GitHub Actions",
+  "main": "index.js",
   "scripts": {
     "build": "echo 'Building...'",
     "test": "echo 'Testing...'"
